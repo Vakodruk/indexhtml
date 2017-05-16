@@ -1,0 +1,105 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+
+
+
+#dropdown-menu-2btn-p .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-p .navbar-brand a {
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-2btn-p .nav .link,
+#dropdown-menu-2btn-p .dropdown-item {
+  font-size: 1.2em;
+  color: #000000;
+}
+#dropdown-menu-2btn-p .navbar,
+#dropdown-menu-2btn-p .dropdown-menu {
+  background: #abdbf2;
+}
+#dropdown-menu-2btn-p .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-p .dropdown-menu a:hover,
+#dropdown-menu-2btn-p .dropdown-menu a:focus {
+  background: #99d3ef;
+}
+#dropdown-menu-2btn-p .navbar-toggler {
+  color: #000000;
+}
+#header1-f H1 {
+  font-size: 46px;
+  font-family: 'PT Sans', sans-serif;
+  text-align: left;
+}
+#header1-f P {
+  color: #fafafa;
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+#dropdown-menu-2btn-p .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-p .navbar-brand a {
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-2btn-p .nav .link,
+#dropdown-menu-2btn-p .dropdown-item {
+  font-size: 1.2em;
+  color: #000000;
+}
+#dropdown-menu-2btn-p .navbar,
+#dropdown-menu-2btn-p .dropdown-menu {
+  background: #fff8e0;
+}
+#dropdown-menu-2btn-p .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-p .dropdown-menu a:hover,
+#dropdown-menu-2btn-p .dropdown-menu a:focus {
+  background: #fff3cc;
+}
+#dropdown-menu-2btn-p .navbar-toggler {
+  color: #000000;
+}
+#content5-w .mbr-section-title {
+  font-size: 36px;
+}
+#content5-w .mbr-section-title B {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+}
+#content5-w P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+#social-buttons2-t .mbr-section-title {
+  font-size: 24px;
+}
+
+#dropdown-menu-2btn-p .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-p .nav .link,
+#dropdown-menu-2btn-p .dropdown-item {
+  font-size: 1.2em;
+  color: #000000;
+}
+#dropdown-menu-2btn-p .navbar,
+#dropdown-menu-2btn-p .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-p .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-p .dropdown-menu a:hover,
+#dropdown-menu-2btn-p .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-p .navbar-toggler {
+  color: #000000;
+}
+#form1-o .mbr-section-title {
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
